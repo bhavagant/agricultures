@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>agricultural</title><link rel="stylesheet" href="style.css">
+ </head>
+<body>
+     
+<ul>
+    <li><a href="agronomy.html">Agronomy</a>  </li>
+   <li> <a href="horticulture.html"> Horticulture </a></li>
+   <li><a href="forestry.html"> Forestry </a></li>
+   <li> <a href="animlhusbandy.html">   Animal husbandry</a></li>
+   <li><a href="fisheryscience.html"> Fishery science </a></li>
+ </ul><br><br><br> 
+ <h1>Agricultural</h1>
+ <h2>History</h2>
+ <p class="aa">Neolithic Period</p>
+    <p>The Neolithic Period or the New Stone age is the period which is indicated with agriculture as its connection because in this time the introduction of cereal cultivation and animal domestication occurred. The people began to utilise cultivated land to grow different crops, advanced tools, pottery or constant shelters.</p>
+<h2>Year Started</h2>
+ <p>Agriculture was the key development in the rise of sedentary human civilization, whereby farming of domesticated species created food surpluses that enabled people to live in cities. While humans started gathering grains at least 105,000 years ago, nascent farmers only began planting them around 11,500 years ago.</p>
+    <h2>Father of Agricultural</h2>
+ <p>Father of Agriculture in the World - Norman Borlaug's Life & Contributions. Borlaug is credited with saving over a billion people worldwide from starvation. He achieved this by developing high-yield, disease-resistant wheat varieties, which were used in Mexico, Pakistan, and India to drastically improve food security.</p>
+ <center><img src="https://blogmedia.testbook.com/blog/wp-content/uploads/2023/06/father-of-agriculture1-4ec3730a.png" alt=""></center>
+ <center><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOCryy50EEqVqPV1fSR0d-tYzXPnbqLjo1YA&s" alt=""></center>
+</body>
+</html>
